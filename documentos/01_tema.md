@@ -26,7 +26,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 - Objeto estudado: `[impactos causados na questão cognitiva nos adolescentes]`
 - Contexto ou aplicação: `[a utilização da IA na vida dos adolescente]`
 - Aspecto que será analisado: `[os impactos cognitivos causados pelo uso da IA]`
-- O que ficará fora do estudo: `[impactos sociais nos adolescentes, a evolução da IA na vida diária dos adolescented]`
+- O que ficará fora do estudo: `[impactos sociais nos adolescentes, a evolução da IA na vida diária dos adolescentes]`
 
 ### Justificativa
 
