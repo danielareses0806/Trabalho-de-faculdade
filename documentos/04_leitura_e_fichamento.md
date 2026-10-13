@@ -22,7 +22,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Objetivo do estudo
 
-`[Sintetizar criticamente o estado atual do conhecimento científico sobre a relação entre a utilização de ferramentas de IA e o desenvolvimento intelectual e cognitivo de crianças e adolescentes (faixa etária de 6 a 18 anos).   ]`
+`[Sintetizar criticamente o estado atual do conhecimento científico sobre a relação entre a utilização de ferramentas de IA e o desenvolvimento intelectual e cognitivo de crianças e adolescentes (faixa etária de 6 a 18 anos).]`
 
 ### Método utilizado
 
@@ -30,7 +30,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Contexto, amostra ou dados
 
-`[Análise de 44 referências bibliográficas e estudos empíricos focados na população de estudantes do ensino básico e secundário (6 a 18 anos) no contexto educacional.   ]`
+`[Análise de 44 referências bibliográficas e estudos empíricos focados na população de estudantes do ensino básico e secundário (6 a 18 anos) no contexto educacional.]`
 
 ### Principais resultados
 
@@ -46,7 +46,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[Trabalho altamente relevante por sistematizar os fatores moderadores do impacto da IA (como idade, modo de uso e ambiente escolar), deixando claro que a tecnologia por si só não é prejudicial, mas sim a ausência de diretrizes pedagógicas para o seu uso consciente.   ]`
 
 ### Citação literal opcional
 
